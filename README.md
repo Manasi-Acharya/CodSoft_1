@@ -1,1 +1,2 @@
 # CodSoft_1
+This Python-based To-Do List application helps users efficiently manage their tasks. It allows users to add, delete tasks and viwe the taks in the list. With a simple and user-friendly command-line interface, this project provides an organized way to track daily activities, boosting productivity. It is an ideal project for learning Python basics and improving project management skills.
